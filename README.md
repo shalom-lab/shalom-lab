@@ -1,6 +1,4 @@
-# Welcome to my GitHub Profile!
-
-👋 Hi, I'm Shalom !
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75122&width=435&lines=Hello%EF%BC%8Cwelcome;My+name+is+Shalom)](https://git.io/typing-svg)
 
 I'm passionate about **programming**, with a focus on **R** and **data science**.
 
