@@ -2,18 +2,15 @@
 
 👋 Hi, I'm Shalom !
 
-I'm a software developer passionate about **Open Source** and **Data Science**.
+I'm passionate about **programming**, with a focus on **R** and **data science**.
 
-- 🌱 Currently working on [Project 1](https://github.com/yourusername/project1) and [Project 2](https://github.com/yourusername/project2).
-- 📫 Reach me at [your-email@example.com](mailto:your-email@example.com).
-- 🔗 Check out my blog: [yourblog.com](http://yourblog.com).
-- 💬 Ask me about **R**, **Python**, **Machine Learning**, and **Web Development**.
+- 🌱 **Currently working on**: Developing interactive web apps using Shiny and exploring data science with R.
+- 🔧 **Technologies I use**: R, Python, SQL, Javascript, Vue, Docker
+- 🎯 **Main Interests**: Data visualization, statistical analysis, web applications, and automation.
 
 ## Featured Projects
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
-
-![My Cool Image](https://url-to-your-image.com)
+- [vslide](https://github.com/shalom-lab/vslide)
+- [Book for R](https://shalom-lab.github.io/r-book/)
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalom-lab&show_icons=true)
