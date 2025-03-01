@@ -9,7 +9,7 @@ I'm passionate about **programming**, with a focus on **R** and **data science**
 ## Featured Projects
 - [vslide](https://github.com/shalom-lab/vslide)
 - [Book for R](https://shalom-lab.github.io/r-book/)
-- [Easy Prompt](https://shalom-lab.github.io/easy-prompt/)
+- [Easy Prompt](https://github.com/shalom-lab/easy-prompt)
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalom-lab&show_icons=true)
